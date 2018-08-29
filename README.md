@@ -1,2 +1,2 @@
 # Deep-Q-Learning
-Deep Q Learning on Atari 2600
+Deep Q Learning on Atari 2600 SpaceInvaders
